@@ -1,0 +1,666 @@
+id,category_name,parent_category_id
+1,Auto parts,
+10,Engine and components,1
+116,Ignition system and fires,10
+531,Spark plug pipe,116
+79,Engine Electrics,10
+334,Engine wiring,79
+567,Torque counter sensor,79
+427,Ignition Coil,116
+19,Suspension & Steering,1
+46,Brake system,19
+230,Brake disc,46
+89,Fuel supply system,10
+387,Gasoline pump,89
+157,Suspension system,19
+614,Wheel Hub,157
+206,Alternator (dynamo),116
+14,Headlights and lamps,1
+105,Headlight,14
+283,Control Arm,157
+176,cooling system,10
+609,Water radiator,176
+6,Auto Body Parts,1
+125,Mirrors & Components,6
+452,MIrrors,125
+536,Starter,116
+211,Axle,157
+21,interior,1
+70,Control panel,21
+532,Speedometer,70
+177,engine parts,10
+329,Engine pad,177
+227,Brake Caliper,46
+520,Shock Absorber,157
+228,Brake Shoe Set,46
+315,Engine,177
+13,"Gear box, bridge, cardan",1
+91,Gearbox,13
+114,Hoods & Components,6
+407,Hood,114
+82,Fenders & Components,6
+353,Fenders,82
+86,Fog Lights,14
+154,Steering control system,19
+221,"Bellow, steering",154
+48,Bumpers & Components,6
+234,Bumper,48
+493,Rare Buffer,48
+160,Tail light,14
+72,Corner Lights,14
+533,"Spring, cab suspension",157
+155,Steering wheel and components,21
+539,Steering Wheel,155
+83,Flywheel,13
+64,Clutch disc,13
+195,ABS block,46
+613,Wheel Brake Cylinder,46
+76,Door and components,6
+302,Door,76
+168,Trunk and components,6
+575,Trunk Lids,168
+423,Hydraulic pump,154
+172,Windshield and cleaning system,6
+603,Washer Reservoirs,172
+248,"Cable Pull, parking brake",46
+31,Air conditioner and heater,10
+406,Heaters Engine,31
+118,Intake system,10
+199,Air Mass Sensor,118
+645,shock absorber cup,157
+99,Gearbox pad,13
+232,Brake vacuum tank,46
+338,"Expansion Tank, coolant",176
+300,Diffuser,176
+197,AC compressor,31
+342,Fan,176
+307,Door lining,76
+269,Centre Rod Assembly,157
+623,Wiper Motors,172
+325,Engine computer,79
+136,Radiator panel,6
+491,Radiator Supports,136
+61,Check system,10
+494,Rear Muffler,61
+413,Hood Release Cables,114
+51,Cabin wiring,21
+562,Tie Rod End,154
+604,"Water Pump, engine cooling",176
+320,Engine block head,177
+561,Throttle,118
+625,ball joint,157
+9,Electricity,1
+158,Switcher,9
+65,Clutch plate,13
+560,"Thermostat, coolant",176
+433,Inner Tie Rod,154
+90,Gear shift,21
+281,Connecting link,90
+44,Body and Components,6
+382,"Gas Caps, Fuel Doors",44
+43,"Belt, tensioner, pulley",10
+557,"Tensioner Pulley, timing belt",43
+115,Hydraulic coupling,13
+104,Grilles & Components,6
+366,Front grille,104
+392,Glove compartment,70
+169,Turbo and components,10
+590,Turbo,169
+321,Engine cap,177
+309,Door moldings,76
+47,"Bulb, spotlight",14
+202,Air filter box,118
+12,Filters,1
+30,Air Filter,12
+5,"Accessories, auto chemistry",1
+27,Accessories,5
+569,Towing rope/belt,27
+579,Trunk Spoiler,168
+449,Logo,104
+547,Stikers,27
+473,Other,27
+3,Rims & Tyres,
+20,Tyres,3
+443,"Joint, drive shaft",154
+279,"Condenser, air conditioning",31
+4,Unknown,
+2,Disassembled vehicles,
+152,Sensor,9
+238,Bumper brackets,48
+349,Fender Moldings,82
+215,Battery,116
+151,Selector cable,13
+380,Fuse box,116
+415,Hood damper,114
+517,"Sensor, wheel speed",46
+32,Airbags,21
+544,Steering wheel airbag,32
+174,Wiring,9
+294,"Deflection/Guide Pulley, V-ribbed belt",43
+383,Gas system,89
+658,Gas Equipment,383
+276,Climate control panel,70
+36,Audio system,21
+258,Car player,36
+398,Handbrake,46
+450,Loudspeakers,36
+471,Oil radiator,177
+431,Injector,89
+305,Door handle,76
+57,Ceiling and components,21
+267,Ceiling lighting,57
+236,Bumper Molding,48
+299,Diesel fuel pump,89
+535,Stabilizer bar bushing,157
+601,"Warning Contact, brake pad wear",46
+437,Intercooler,169
+237,Bumper Reinforcements,48
+404,Heater radiator,31
+11,Equipment and tools,1
+163,Tools,11
+148,"Seal, gasket",10
+326,Engine cover gasket,148
+263,Catalyst sensor,61
+571,Transverse Arm (Rod),157
+428,Ignition lock,155
+295,Deflector,176
+624,Wiper arm,172
+131,Pedal,21
+466,Oil dipstick,177
+49,Cabin buttons and switches,21
+606,Water pipe adapter,176
+530,Spark Plug,116
+63,Clutch bearing,13
+639,intake manifold,118
+460,Monitor,36
+88,Fuel filter,12
+400,Headlight switch,155
+441,Inventor water pump,176
+489,Radiator Hose,169
+251,Camshaft,177
+304,Door glass Lifter,76
+272,Charge Air Cooler,31
+368,Front windshield,172
+553,Support frame,157
+135,Protective and components,6
+318,Engine Splash Shields,135
+463,Oil Pump,177
+483,Phone holder,27
+120,Key,9
+537,Steering Axis,154
+123,"Master Cylinder, clutch",13
+150,Seats and components,21
+213,Back seat,150
+240,Bumper grilles,48
+586,Trunk lid damper,168
+75,Disk Repiar,11
+578,Trunk Locks,168
+68,Computer,9
+390,Glass lifting buttons,76
+175,Xenon module,14
+308,Door lock,76
+141,Reflector,14
+130,Other,9
+546,Steering wheel buttons,155
+372,Fuel high pressure sensor,89
+8,Disk hub,3
+558,The body,44
+521,Shock absorber bushing,157
+66,"Clutch, radiator fan",13
+488,Radiator Cover,136
+510,Roof tent,27
+627,body kit,44
+458,Mirror cover,125
+218,"Bearing, drive shaft",157
+630,crankcase ventilation valve,177
+58,Central console (bar),21
+660,Gas bottle,383
+358,Fog Light Covers,48
+254,"Cap, radiator",176
+290,Crankshaft seal,148
+219,"Bellow, drive shaft",157
+322,Engine chain,177
+316,Engine Belt,43
+485,Pins (spill / hampt),27
+595,Valve seal,148
+100,Gearbox seal,13
+495,Rear windscreen,172
+333,Engine valve,177
+361,Front Dash Board,70
+207,Antenna,36
+146,Safety belts,21
+662,Reductor,383
+55,Cardan,13
+487,"Protective Cap/Bellow, shock absorber",157
+328,Engine gasket,177
+508,Roof rack,27
+583,Trunk glass,168
+268,Center pillar,44
+220,"Bellow, driver cab suspension",157
+542,Steering knuckle,157
+642,mudguards,135
+347,Fender Liner Seals,82
+408,Hood Hinges,114
+615,"Wheel nuts, secrets",27
+56,Cardan Bearing,13
+247,"Bushing, stabiliser bar",157
+331,Engine piston ring,177
+409,Hood Insulation,114
+330,Engine piston,177
+129,Oil filter,12
+611,Water radiator pipe,176
+117,Imobiliser,9
+319,Engine block,177
+564,Timing Belt,43
+15,Oils and fluids,1
+87,Fuel additives,15
+243,Bumper rubber,48
+568,Tow covers,48
+348,Fender Liners,82
+467,Oil filter cap,177
+241,Bumper protectors,48
+518,Shaft,177
+16,Rim and tyre packages,3
+39,Axle,13
+74,Diagnostics device,11
+436,Intake Manifold Valve,118
+482,Parking Distance Control,48
+411,Hood Locks,114
+446,Leading Arm Bushings,157
+545,Steering wheel airbag cover,32
+298,Diaphragm,118
+526,Solenoid,116
+430,Indicators,27
+656,Air temperature indicator,430
+314,Element cooling engine,116
+222,Belt tensioner pulley,43
+384,"Gasket Kit, crankcase",148
+226,Body reinforce,44
+53,Car floor mats,21
+556,Switch lever,90
+77,Electric appliances,11
+574,Trunk Lid Moldings,168
+297,Detonation sensor,79
+339,Expansion tank cap,176
+303,Door Glass,76
+235,Bumper Absorbers (foam),48
+261,Carter,177
+555,Suspension beam,157
+107,Headlight bracket,14
+94,Gearbox computer,13
+323,Engine chain damper,177
+502,Rocker panel,44
+200,Air conditioner compressor pulley,31
+108,Headlight control module,14
+540,Steering Wheel Spiral Cable,155
+359,Fog Light Trims,48
+50,Cabin filter,12
+111,Headlight master switch,14
+435,"Intake Hose, air filter",118
+345,Fasteners,169
+362,Front Seat,150
+396,Grille brackets,104
+245,"Bushing, axle beam",157
+472,Oil temperature sensor,79
+252,Camshaft sensor,79
+386,"Gasket, oil sump",148
+271,Changer,36
+650,trunk opener,168
+350,Fender brackets,82
+142,Relay,9
+599,Vanus valve seal,148
+164,Transfer box,13
+224,Body back panel,44
+38,Autochemistry,5
+440,Interior care,38
+644,rear-view camera,168
+565,Tire Care,38
+257,Car perfume,38
+548,Subwoofer,36
+170,Vacuum cleaner,11
+110,Headlight frame,14
+418,Hybrid elements,116
+306,Door hinge,76
+194,"",155
+391,Glass lifting mechanism,76
+341,FM modulator,36
+363,Front bumper guard,27
+475,Other (engine electrics),79
+617,Wind Defender,27
+225,Body rear floor panel,44
+264,Catalytic Converter,61
+654,wiper panel,172
+60,Charger,9
+528,Spacer (flange),157
+439,Interior accessory,27
+478,Painting materials,38
+665,საღებავი,478
+17,Rims,3
+420,Hydraulic coupling,176
+212,Axle seal,157
+337,Exhaust manifold,61
+459,Mirror glass,125
+648,trunk carpet,168
+139,Rear view mirror,21
+635,headlight washer cover,48
+534,Springs,157
+25,სამუხრუჭე სისტემა,1
+193,ხუნდები,25
+301,Distronic,104
+71,Coolant,15
+343,Fan motor,176
+417,Hood rubber,114
+231,Brake fluid tank,46
+80,Engine oil,15
+291,Cruise control switch,155
+7,Bridge and transmission,1
+191,ღვედი (რემენი),7
+527,Sound amplifier,36
+287,Cooling damper,176
+585,Trunk inscriptions,168
+381,Fuse box lid,116
+397,Grille molding,104
+84,Fog Light bracket,14
+461,Monitor frame,70
+597,Valve tappet,177
+310,Door rubber,76
+112,Headlight washer,14
+259,Car pump,27
+622,Wiper Blade,172
+421,Hydraulic hoist / jack,27
+204,Air pump,118
+201,Air conditioner radiator pipes,31
+119,Inventor,9
+288,Crankshaft,177
+376,Fuel tank throat,89
+95,Gearbox filter,12
+352,Fender intake,82
+35,Ashtray,21
+600,Video Registrator,36
+529,Spare tire clamp,27
+580,Trunk board,168
+629,collar,157
+278,Collector's protector,61
+598,Vanos,177
+265,Ceiling,57
+67,Comfort block,9
+401,Headrest,150
+33,Alternator Freewheel Clutch,13
+543,Steering wheel Angle Sensor,155
+205,Airbag module,32
+608,Water pump rotor,172
+42,Battery stand,9
+162,Tire bluetooth sensor,9
+572,Trunk Compressor,168
+145,Roof and components,6
+480,Panoramic roof,145
+456,Mirror Motors,125
+317,Engine Gear,177
+414,Hood air intake,114
+653,wheel seal,157
+462,Muffler nozzle,61
+457,Mirror Turn Signal Lights,125
+663,Water temperature indicator,430
+448,License plate frame,27
+451,MAP sensor,89
+286,Coolant level sensor,176
+465,Oil cooling pipes,177
+412,Hood Moldings,114
+179,headlamp glass,14
+41,Battery charger,11
+503,Rocker panel moldings,44
+242,Bumper reinforcement bracket,48
+490,Radiator Support Brackets,136
+357,Floor Pans,135
+445,Knee airbag,32
+633,exterior care,38
+233,Brush,38
+312,Electric generator pulley,116
+210,Audio wiring,36
+509,Roof railing,145
+277,Cold air inlet,118
+610,Water radiator bracket,176
+106,Headlight Molding,14
+634,fuel tank,89
+581,Trunk curtain,168
+618,Windshield Seals,172
+92,Gearbox Carter,13
+500,Resonator,61
+523,Signal,155
+444,Jumper/Battery charger,27
+133,Polishing machine and accessory,11
+486,Polishing pad,133
+455,Microfiber,38
+166,Transmission oil,15
+54,Car lift,11
+37,Auto service equipment,11
+171,Vulcanization installations,11
+454,Manifold gasket,61
+661,Oil pressure indicator,430
+588,Trunk seats,150
+282,Connecting-rod,177
+244,Bumpers,48
+516,Seat handle,150
+589,Trunk upholstery,168
+616,Winch,27
+393,Glow plug,116
+208,Anti-slip chain,27
+573,Trunk Hinges,168
+416,Hood regulator,114
+632,door wiring,76
+395,Grill rubber,104
+124,Mirror control button,21
+646,sunroof curtain,145
+371,Fuel evaporation tank,89
+18,Spare tire,3
+651,trunk rubber,168
+364,Front dash board cover,70
+28,Additional lighting,14
+505,Roof,145
+126,Moto equipment,5
+637,helmet,126
+576,Trunk Lights,168
+515,Seat cover lid,150
+512,Seat airbag,32
+410,Hood Latches,114
+365,Front dashboard airbag,32
+260,Car visor,57
+477,Outside temperature sensor,31
+178,front bumpers and components,6
+496,Reinforcing pole (balka),178
+223,Bicycle rack,27
+402,Heater (furnace),31
+641,lock Cable,168
+161,Tail light wiring,14
+45,Brake Fluid,15
+138,Rear panel,21
+582,Trunk duct,168
+140,Rear windshield break light,14
+181,interior upholstery and trim,21
+313,Electrical wiring of the trunk,168
+620,Windshield Washer Pumps,172
+636,heater tap,31
+484,"Pillar, Front body",44
+132,Polishing machine,11
+619,Windshield Washer Nozzles,172
+109,Headlight cover,14
+344,Fan relay,176
+507,Roof moldings,145
+628,clipper,76
+59,Charcoal filter,12
+101,Gearbox selector,13
+438,Intercooler tube adapter,169
+499,Repair kit,177
+78,Emergency button,21
+143,Relay and cabin unit,21
+434,Inside door handle,76
+607,Water pump gasket,176
+631,deshboard Ventilation grilles,70
+196,ABS pump engine,46
+506,Roof airbag,32
+469,Oil pressure sensor,79
+594,Vacuum pump,118
+549,Sunroof,145
+464,Oil cooler seal,148
+593,V-Ribbed Belt,43
+476,Outer belt,43
+253,Canisters,27
+113,High pressure washer,11
+122,Lubricants,15
+296,Detergents,38
+453,Maintenance of glasses and headlights,38
+375,Fuel system care,38
+355,Flavoring,38
+612,Water temperature sensor,176
+147,Salon carpet,21
+649,trunk mesh,168
+367,Front view camera,104
+85,Fog Light wiring,14
+424,Hydraulic pump seal,154
+167,Trunk,5
+584,Trunk glass motor,168
+98,Gearbox oil cooling pipe,13
+22,განათება და ელექტროობა,1
+184,აკუმლატორი,22
+203,Air intake pipe adapter,118
+182,Тool kit,11
+514,Seat cover,27
+659,Gas Injection,383
+284,Control module,36
+559,The trunk emblem,168
+551,Sunroof engine,145
+492,Rain sensor,172
+388,Gear shifter board,90
+541,Steering column covers,155
+591,Turbo sensor,169
+255,Car fridge,27
+293,Dashboard Storage Box,70
+425,Hydraulic radiator,154
+501,Road safety,27
+374,Fuel supply pipes,89
+324,Engine chain tensioner,177
+647,sunroof glass,145
+525,Snorkel,118
+497,"Repair Kit, brake caliper",46
+370,Fuel evaporation pump,89
+422,Hydraulic pipe,154
+327,Engine crankcase gasket,148
+332,Engine rear seal,148
+432,Inlet manifold gasket,118
+468,Oil level sensor,79
+180,headlight wiring,14
+189,უკანა სტოპი,22
+185,საკისარი (პაჩებნიკი),7
+190,ფარი,22
+23,მართვის მექანიზმი,1
+186,საჭე,23
+24,სავალი ნაწილები და კომპონენტები,1
+187,ტრავერსი,24
+377,Fuel tank ventilation valve,89
+188,უკანა ამორტიზატორი,24
+474,"Other (Seal, gasket)",148
+165,Transfer box oil seal,13
+266,Ceiling handle,57
+399,Handbrake engine,46
+554,Support frame bushing,157
+40,Axle seal,13
+214,Balancer,177
+249,Caliper cover,46
+340,Extinguisher,27
+519,"Shaft Seal, camshaft",148
+360,Free movement sensor,89
+592,Turbo wing,169
+229,Brake Shoe Sleeve,46
+96,Gearbox gasket,13
+102,Gearbox sensor,13
+62,Clutch Kit,13
+217,Battery terminal connector,116
+621,Windshield wiper switch,155
+403,Heater pipes,31
+156,Supplements,15
+394,"Glue, sealant, scotch",38
+498,"Repair Kit, steering knuckle",157
+511,"Seal Ring, spark plug shaft",116
+504,"Rolling Bearing, suspension strut support mount",157
+93,Gearbox bearing,13
+336,Exhaust Pipe,61
+587,Trunk liner foam,168
+311,Electric generator (dynamo) belt,116
+552,Sunshades and curtains,27
+69,"Control Unit, automatic transmission",13
+429,Indicator panel,70
+73,Cup,21
+479,Panel decoration,70
+351,Fender inscription,82
+524,Ski mount,27
+26,ძრავი და კომპონენტები,1
+52,Camshaft,26
+442,Jackets,126
+419,Hydraulic belt,154
+250,Camber Correction Screw,157
+563,Tie rod ends boots,154
+405,Heater valve,31
+356,"Flex Hose, exhaust system",61
+149,"Sealing Cap, oil filler neck",10
+638,injector pump Shaft Seal,89
+270,"Chain Set, oil pump drive",177
+256,Car headphone,36
+246,"Bushing, leaf spring",157
+34,Alternator Regulator,9
+285,Coolant Flange,176
+153,"Slave Cylinder, clutch",13
+209,Audio system computer,36
+369,Fuel Feed Unit,89
+192,ჩამრთველ გამომრთველი ღილაკი,22
+273,Child seat,27
+378,"Full Gasket Kit, engine",177
+605,Water cooler bushing,176
+373,Fuel level indicator,89
+103,Gearbox solenoid,13
+274,Cigarette Lighter,70
+626,blow off,169
+538,Steering Shaft,154
+173,Windshield fluid,15
+385,"Gasket Set, timing case",177
+97,Gearbox gear,13
+602,Washer Reservoir Level Sensors,172
+447,Leather restoration / care product,38
+137,Rear bumpers and components,6
+198,Absorber,137
+657,Boost index,430
+292,Cylinder,177
+216,Battery holder,116
+389,Gearbox traverse,90
+570,Trailer Tow Hitch,27
+640,jump starter,27
+566,Tire pressure gauge,27
+550,Sunroof Bracket,145
+144,Remote control of special machinery,11
+522,Side glass of the body,44
+183,აალების სანთელი,22
+470,Oil pump seal,148
+335,Excavator bucket,27
+513,Seat control buttons,150
+664,oil temperature index,430
+577,Trunk Lock Actuators,168
+379,Fuse,116
+481,Parking Brake Pad,46
+127,"Mounting, transfer case",13
+262,"Caster Shim, axle beam",157
+596,Valve spring,177
+239,Bumper foam,137
+643,rafter,137
+81,Engine splash shield Engine splash shield,6
+121,Key remote control,5
+159,TAOT,15
+29,Adhesives and sealants,15
+652,water tank,176
+128,Oil additives,15
+134,Power steering oil,15
+280,Connecting Rod Bearing Set,177
+289,Crankshaft Bearing Set,177
+655,датчик ЕГР,118
+354,"Filter, crankcase ventilation",177
+275,"Clamps, chargers",27
+426,Hydraulic tank,154
+346,"Fastening Set, leaf spring",157

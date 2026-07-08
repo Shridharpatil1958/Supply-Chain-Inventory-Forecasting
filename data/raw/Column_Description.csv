@@ -1,0 +1,31 @@
+﻿Table Name,Column Name,Description
+product_category,id,A unique identifier for each product category.
+product_category,category_name,The name of the product category.
+product_category,parent_category_id,References the id of another product category for hierarchical categories.
+application_status,id,A unique identifier for each application status.
+application_status,status_name,"Describes the status of an application (e.g., ""Vip"", ""Super Vip"")."
+seller,id,A unique identifier for each seller.
+seller,seller_name,The name of the seller.
+seller,address,The seller's address.
+seller,mobile_number,The contact mobile number for the seller.
+applications,app_id,A unique identifier for each application.
+applications,headline,A brief title or description of the application.
+applications,price_gel,Price of the application in Georgian Lari (GEL).
+applications,price_usd,Price of the application in USD.
+applications,app_register_date,The date the application was registered.
+applications,status_id,References the id in the application_status table.
+applications,category_id,References the id in the product_category table.
+applications,vehicle_type_id,References the id in the vehicle_type table.
+applications,seller_id,References the id in the seller table.
+applications,item_condition,"Describes the condition of the item (e.g., ""New"", ""Used"")."
+applications,insert_date,The date the application was added to the database.
+vehicles,id,A unique identifier for each vehicle.
+vehicles,model_name,The name or model of the vehicle.
+vehicles,manufacturer_name,The manufacturer or brand of the vehicle.
+vehicles,vehicle_type_id,References the id in the vehicle_type table.
+vehicle_type,id,A unique identifier for each vehicle type.
+vehicle_type,vehicle_type_name,"The name or description of the vehicle type (e.g., ""Car"", ""Motorcycle"")."
+compatibility,app_id,References the app_id in the applications table.
+compatibility,bottom_year,The earliest year the application is compatible with a vehicle.
+compatibility,top_year,The latest year the application is compatible with a vehicle.
+compatibility,vehicles_id,References the id in the vehicles table.

@@ -1,0 +1,691 @@
+date,display_category,top_level_group,listing_count,avg_price_usd,pct_new_condition
+2024-09-07,"Accessories, auto chemistry",Auto parts,7,72.85714285714286,0.2857142857142857
+2024-09-08,"Accessories, auto chemistry",Auto parts,28,19.0,0.9285714285714286
+2024-09-09,"Accessories, auto chemistry",Auto parts,12,156.75,0.3333333333333333
+2024-09-10,"Accessories, auto chemistry",Auto parts,7,114.0,0.42857142857142855
+2024-09-11,"Accessories, auto chemistry",Auto parts,21,226.66666666666666,0.8095238095238095
+2024-09-12,"Accessories, auto chemistry",Auto parts,6,211.0,0.16666666666666666
+2024-09-13,"Accessories, auto chemistry",Auto parts,16,140.3125,0.3125
+2024-09-14,"Accessories, auto chemistry",Auto parts,5,161.2,0.2
+2024-09-15,"Accessories, auto chemistry",Auto parts,9,102.88888888888889,0.5555555555555556
+2024-09-16,"Accessories, auto chemistry",Auto parts,31,229.25806451612902,0.9032258064516129
+2024-09-17,"Accessories, auto chemistry",Auto parts,22,76.22727272727273,0.7727272727272727
+2024-09-18,"Accessories, auto chemistry",Auto parts,8,203.25,0.5
+2024-09-19,"Accessories, auto chemistry",Auto parts,9,41.44444444444444,0.6666666666666666
+2024-09-20,"Accessories, auto chemistry",Auto parts,14,80.35714285714286,0.7142857142857143
+2024-09-21,"Accessories, auto chemistry",Auto parts,5,97.2,0.4
+2024-09-22,"Accessories, auto chemistry",Auto parts,4,117.5,0.5
+2024-09-23,"Accessories, auto chemistry",Auto parts,28,95.03571428571429,0.6428571428571429
+2024-09-24,"Accessories, auto chemistry",Auto parts,38,138.02631578947367,0.8157894736842105
+2024-09-25,"Accessories, auto chemistry",Auto parts,14,170.85714285714286,0.8571428571428571
+2024-09-26,"Accessories, auto chemistry",Auto parts,32,158.75,0.96875
+2024-09-27,"Accessories, auto chemistry",Auto parts,16,163.625,0.625
+2024-09-28,"Accessories, auto chemistry",Auto parts,21,155.47619047619048,0.7619047619047619
+2024-09-29,"Accessories, auto chemistry",Auto parts,7,206.42857142857142,0.2857142857142857
+2024-09-30,"Accessories, auto chemistry",Auto parts,39,163.5897435897436,0.8717948717948718
+2024-10-01,"Accessories, auto chemistry",Auto parts,37,109.62162162162163,0.8108108108108109
+2024-10-02,"Accessories, auto chemistry",Auto parts,34,140.11764705882354,0.7647058823529411
+2024-10-03,"Accessories, auto chemistry",Auto parts,45,183.73333333333332,0.8666666666666667
+2024-10-04,"Accessories, auto chemistry",Auto parts,43,69.34883720930233,0.8372093023255814
+2024-10-05,"Accessories, auto chemistry",Auto parts,7,170.71428571428572,0.2857142857142857
+2024-10-06,"Accessories, auto chemistry",Auto parts,17,135.0,0.7058823529411765
+2024-09-07,Auto Body Parts,Auto parts,359,172.52924791086352,0.5041782729805014
+2024-09-08,Auto Body Parts,Auto parts,771,196.22178988326849,0.6368352788586251
+2024-09-09,Auto Body Parts,Auto parts,931,207.8453276047261,0.4189044038668099
+2024-09-10,Auto Body Parts,Auto parts,1202,152.13893510815308,0.3985024958402662
+2024-09-11,Auto Body Parts,Auto parts,1325,159.82415094339623,0.76
+2024-09-12,Auto Body Parts,Auto parts,828,215.33816425120773,0.29830917874396135
+2024-09-13,Auto Body Parts,Auto parts,495,199.41010101010102,0.3212121212121212
+2024-09-14,Auto Body Parts,Auto parts,613,197.41761827079935,0.24469820554649266
+2024-09-15,Auto Body Parts,Auto parts,496,234.91935483870967,0.22983870967741934
+2024-09-16,Auto Body Parts,Auto parts,1744,217.35607798165137,0.7121559633027523
+2024-09-17,Auto Body Parts,Auto parts,1014,150.96745562130178,0.7307692307692307
+2024-09-18,Auto Body Parts,Auto parts,601,196.20465890183027,0.41264559068219636
+2024-09-19,Auto Body Parts,Auto parts,793,165.74905422446406,0.5952080706179067
+2024-09-20,Auto Body Parts,Auto parts,1454,211.96011004126547,0.5206327372764786
+2024-09-21,Auto Body Parts,Auto parts,697,130.47058823529412,0.648493543758967
+2024-09-22,Auto Body Parts,Auto parts,341,177.83284457478007,0.40175953079178883
+2024-09-23,Auto Body Parts,Auto parts,1516,185.89709762532982,0.32981530343007914
+2024-09-24,Auto Body Parts,Auto parts,991,207.29667003027245,0.5721493440968718
+2024-09-25,Auto Body Parts,Auto parts,872,149.3795871559633,0.7018348623853211
+2024-09-26,Auto Body Parts,Auto parts,1006,180.74155069582505,0.6789264413518886
+2024-09-27,Auto Body Parts,Auto parts,1511,125.1277299801456,0.7498345466578424
+2024-09-28,Auto Body Parts,Auto parts,1163,208.16852966466035,0.588993981083405
+2024-09-29,Auto Body Parts,Auto parts,356,185.89044943820224,0.47191011235955055
+2024-09-30,Auto Body Parts,Auto parts,3673,197.17615028586985,0.6708412741628097
+2024-10-01,Auto Body Parts,Auto parts,2654,169.18952524491334,0.7916352675207234
+2024-10-02,Auto Body Parts,Auto parts,2373,176.46396965865992,0.7833965444584914
+2024-10-03,Auto Body Parts,Auto parts,1305,174.0536398467433,0.4796934865900383
+2024-10-04,Auto Body Parts,Auto parts,3599,137.89052514587385,0.8057793831619895
+2024-10-05,Auto Body Parts,Auto parts,1646,171.12393681652492,0.7089914945321992
+2024-10-06,Auto Body Parts,Auto parts,1128,187.63475177304966,0.6578014184397163
+2024-09-07,Brake system (GE),Auto parts,0,30.6,1.0
+2024-09-08,Brake system (GE),Auto parts,0,30.6,1.0
+2024-09-09,Brake system (GE),Auto parts,5,30.6,1.0
+2024-09-10,Brake system (GE),Auto parts,0,30.6,1.0
+2024-09-11,Brake system (GE),Auto parts,0,30.6,1.0
+2024-09-12,Brake system (GE),Auto parts,0,30.6,1.0
+2024-09-13,Brake system (GE),Auto parts,0,30.6,1.0
+2024-09-14,Brake system (GE),Auto parts,0,30.6,1.0
+2024-09-15,Brake system (GE),Auto parts,0,30.6,1.0
+2024-09-16,Brake system (GE),Auto parts,0,30.6,1.0
+2024-09-17,Brake system (GE),Auto parts,0,30.6,1.0
+2024-09-18,Brake system (GE),Auto parts,0,30.6,1.0
+2024-09-19,Brake system (GE),Auto parts,0,30.6,1.0
+2024-09-20,Brake system (GE),Auto parts,0,30.6,1.0
+2024-09-21,Brake system (GE),Auto parts,0,30.6,1.0
+2024-09-22,Brake system (GE),Auto parts,0,30.6,1.0
+2024-09-23,Brake system (GE),Auto parts,0,30.6,1.0
+2024-09-24,Brake system (GE),Auto parts,0,30.6,1.0
+2024-09-25,Brake system (GE),Auto parts,2,106.0,1.0
+2024-09-26,Brake system (GE),Auto parts,0,106.0,1.0
+2024-09-27,Brake system (GE),Auto parts,1,50.0,1.0
+2024-09-28,Brake system (GE),Auto parts,0,50.0,1.0
+2024-09-29,Brake system (GE),Auto parts,0,50.0,1.0
+2024-09-30,Brake system (GE),Auto parts,0,50.0,1.0
+2024-10-01,Brake system (GE),Auto parts,0,50.0,1.0
+2024-10-02,Brake system (GE),Auto parts,0,50.0,1.0
+2024-10-03,Brake system (GE),Auto parts,0,50.0,1.0
+2024-10-04,Brake system (GE),Auto parts,0,50.0,1.0
+2024-10-05,Brake system (GE),Auto parts,0,50.0,1.0
+2024-10-06,Brake system (GE),Auto parts,0,50.0,1.0
+2024-09-07,Bridge and transmission,Auto parts,0,0.0,1.0
+2024-09-08,Bridge and transmission,Auto parts,0,0.0,1.0
+2024-09-09,Bridge and transmission,Auto parts,0,0.0,1.0
+2024-09-10,Bridge and transmission,Auto parts,0,0.0,1.0
+2024-09-11,Bridge and transmission,Auto parts,0,0.0,1.0
+2024-09-12,Bridge and transmission,Auto parts,0,0.0,1.0
+2024-09-13,Bridge and transmission,Auto parts,0,0.0,1.0
+2024-09-14,Bridge and transmission,Auto parts,0,0.0,1.0
+2024-09-15,Bridge and transmission,Auto parts,1,0.0,1.0
+2024-09-16,Bridge and transmission,Auto parts,0,0.0,1.0
+2024-09-17,Bridge and transmission,Auto parts,0,0.0,1.0
+2024-09-18,Bridge and transmission,Auto parts,0,0.0,1.0
+2024-09-19,Bridge and transmission,Auto parts,0,0.0,1.0
+2024-09-20,Bridge and transmission,Auto parts,0,0.0,1.0
+2024-09-21,Bridge and transmission,Auto parts,0,0.0,1.0
+2024-09-22,Bridge and transmission,Auto parts,0,0.0,1.0
+2024-09-23,Bridge and transmission,Auto parts,2,60.0,1.0
+2024-09-24,Bridge and transmission,Auto parts,0,60.0,1.0
+2024-09-25,Bridge and transmission,Auto parts,0,60.0,1.0
+2024-09-26,Bridge and transmission,Auto parts,0,60.0,1.0
+2024-09-27,Bridge and transmission,Auto parts,0,60.0,1.0
+2024-09-28,Bridge and transmission,Auto parts,0,60.0,1.0
+2024-09-29,Bridge and transmission,Auto parts,0,60.0,1.0
+2024-09-30,Bridge and transmission,Auto parts,0,60.0,1.0
+2024-10-01,Bridge and transmission,Auto parts,0,60.0,1.0
+2024-10-02,Bridge and transmission,Auto parts,0,60.0,1.0
+2024-10-03,Bridge and transmission,Auto parts,0,60.0,1.0
+2024-10-04,Bridge and transmission,Auto parts,0,60.0,1.0
+2024-10-05,Bridge and transmission,Auto parts,0,60.0,1.0
+2024-10-06,Bridge and transmission,Auto parts,0,60.0,1.0
+2024-09-07,Chassis parts and components (GE),Auto parts,0,11.0,1.0
+2024-09-08,Chassis parts and components (GE),Auto parts,1,11.0,1.0
+2024-09-09,Chassis parts and components (GE),Auto parts,0,11.0,1.0
+2024-09-10,Chassis parts and components (GE),Auto parts,0,11.0,1.0
+2024-09-11,Chassis parts and components (GE),Auto parts,0,11.0,1.0
+2024-09-12,Chassis parts and components (GE),Auto parts,0,11.0,1.0
+2024-09-13,Chassis parts and components (GE),Auto parts,1,682.0,0.0
+2024-09-14,Chassis parts and components (GE),Auto parts,0,682.0,0.0
+2024-09-15,Chassis parts and components (GE),Auto parts,0,682.0,0.0
+2024-09-16,Chassis parts and components (GE),Auto parts,0,682.0,0.0
+2024-09-17,Chassis parts and components (GE),Auto parts,0,682.0,0.0
+2024-09-18,Chassis parts and components (GE),Auto parts,1,600.0,0.0
+2024-09-19,Chassis parts and components (GE),Auto parts,0,600.0,0.0
+2024-09-20,Chassis parts and components (GE),Auto parts,0,600.0,0.0
+2024-09-21,Chassis parts and components (GE),Auto parts,0,600.0,0.0
+2024-09-22,Chassis parts and components (GE),Auto parts,0,600.0,0.0
+2024-09-23,Chassis parts and components (GE),Auto parts,1,163.0,1.0
+2024-09-24,Chassis parts and components (GE),Auto parts,0,163.0,1.0
+2024-09-25,Chassis parts and components (GE),Auto parts,1,150.0,0.0
+2024-09-26,Chassis parts and components (GE),Auto parts,0,150.0,0.0
+2024-09-27,Chassis parts and components (GE),Auto parts,0,150.0,0.0
+2024-09-28,Chassis parts and components (GE),Auto parts,0,150.0,0.0
+2024-09-29,Chassis parts and components (GE),Auto parts,0,150.0,0.0
+2024-09-30,Chassis parts and components (GE),Auto parts,0,150.0,0.0
+2024-10-01,Chassis parts and components (GE),Auto parts,0,150.0,0.0
+2024-10-02,Chassis parts and components (GE),Auto parts,0,150.0,0.0
+2024-10-03,Chassis parts and components (GE),Auto parts,0,150.0,0.0
+2024-10-04,Chassis parts and components (GE),Auto parts,0,150.0,0.0
+2024-10-05,Chassis parts and components (GE),Auto parts,0,150.0,0.0
+2024-10-06,Chassis parts and components (GE),Auto parts,0,150.0,0.0
+2024-09-07,Disassembled vehicles,Disassembled vehicles,28,0.0,0.0
+2024-09-08,Disassembled vehicles,Disassembled vehicles,23,0.0,0.0
+2024-09-09,Disassembled vehicles,Disassembled vehicles,89,0.0,0.0
+2024-09-10,Disassembled vehicles,Disassembled vehicles,19,0.0,0.0
+2024-09-11,Disassembled vehicles,Disassembled vehicles,60,0.0,0.0
+2024-09-12,Disassembled vehicles,Disassembled vehicles,32,0.0,0.0
+2024-09-13,Disassembled vehicles,Disassembled vehicles,34,0.0,0.0
+2024-09-14,Disassembled vehicles,Disassembled vehicles,21,0.0,0.0
+2024-09-15,Disassembled vehicles,Disassembled vehicles,52,0.0,0.0
+2024-09-16,Disassembled vehicles,Disassembled vehicles,29,0.0,0.0
+2024-09-17,Disassembled vehicles,Disassembled vehicles,51,0.0,0.0
+2024-09-18,Disassembled vehicles,Disassembled vehicles,26,0.0,0.0
+2024-09-19,Disassembled vehicles,Disassembled vehicles,26,0.0,0.0
+2024-09-20,Disassembled vehicles,Disassembled vehicles,44,0.0,0.0
+2024-09-21,Disassembled vehicles,Disassembled vehicles,105,0.0,0.0
+2024-09-22,Disassembled vehicles,Disassembled vehicles,28,0.0,0.0
+2024-09-23,Disassembled vehicles,Disassembled vehicles,52,0.0,0.0
+2024-09-24,Disassembled vehicles,Disassembled vehicles,82,0.0,0.0
+2024-09-25,Disassembled vehicles,Disassembled vehicles,66,0.0,0.0
+2024-09-26,Disassembled vehicles,Disassembled vehicles,90,0.0,0.0
+2024-09-27,Disassembled vehicles,Disassembled vehicles,80,0.0,0.0
+2024-09-28,Disassembled vehicles,Disassembled vehicles,54,0.0,0.0
+2024-09-29,Disassembled vehicles,Disassembled vehicles,65,0.0,0.0
+2024-09-30,Disassembled vehicles,Disassembled vehicles,117,0.0,0.0
+2024-10-01,Disassembled vehicles,Disassembled vehicles,125,0.0,0.0
+2024-10-02,Disassembled vehicles,Disassembled vehicles,154,0.0,0.0
+2024-10-03,Disassembled vehicles,Disassembled vehicles,116,0.0,0.0
+2024-10-04,Disassembled vehicles,Disassembled vehicles,184,0.0,0.0
+2024-10-05,Disassembled vehicles,Disassembled vehicles,161,0.0,0.0
+2024-10-06,Disassembled vehicles,Disassembled vehicles,280,0.0,0.0
+2024-09-07,Disk hub,Rims & Tyres,4,32.5,0.75
+2024-09-08,Disk hub,Rims & Tyres,1,55.0,1.0
+2024-09-09,Disk hub,Rims & Tyres,0,55.0,1.0
+2024-09-10,Disk hub,Rims & Tyres,0,55.0,1.0
+2024-09-11,Disk hub,Rims & Tyres,3,31.666666666666668,0.3333333333333333
+2024-09-12,Disk hub,Rims & Tyres,0,31.666666666666668,0.3333333333333333
+2024-09-13,Disk hub,Rims & Tyres,0,31.666666666666668,0.3333333333333333
+2024-09-14,Disk hub,Rims & Tyres,5,44.0,0.6
+2024-09-15,Disk hub,Rims & Tyres,3,46.666666666666664,0.0
+2024-09-16,Disk hub,Rims & Tyres,0,46.666666666666664,0.0
+2024-09-17,Disk hub,Rims & Tyres,0,46.666666666666664,0.0
+2024-09-18,Disk hub,Rims & Tyres,0,46.666666666666664,0.0
+2024-09-19,Disk hub,Rims & Tyres,2,76.5,0.5
+2024-09-20,Disk hub,Rims & Tyres,2,30.5,0.5
+2024-09-21,Disk hub,Rims & Tyres,3,52.666666666666664,0.6666666666666666
+2024-09-22,Disk hub,Rims & Tyres,1,20.0,0.0
+2024-09-23,Disk hub,Rims & Tyres,3,80.66666666666667,0.0
+2024-09-24,Disk hub,Rims & Tyres,2,101.0,0.0
+2024-09-25,Disk hub,Rims & Tyres,0,101.0,0.0
+2024-09-26,Disk hub,Rims & Tyres,2,115.0,0.5
+2024-09-27,Disk hub,Rims & Tyres,1,15.0,0.0
+2024-09-28,Disk hub,Rims & Tyres,1,120.0,0.0
+2024-09-29,Disk hub,Rims & Tyres,1,50.0,0.0
+2024-09-30,Disk hub,Rims & Tyres,6,19.0,0.6666666666666666
+2024-10-01,Disk hub,Rims & Tyres,10,73.0,0.2
+2024-10-02,Disk hub,Rims & Tyres,9,46.55555555555556,0.1111111111111111
+2024-10-03,Disk hub,Rims & Tyres,7,47.857142857142854,0.5714285714285714
+2024-10-04,Disk hub,Rims & Tyres,7,28.428571428571427,0.42857142857142855
+2024-10-05,Disk hub,Rims & Tyres,2,31.5,0.0
+2024-10-06,Disk hub,Rims & Tyres,4,35.0,1.0
+2024-09-07,Electricity,Auto parts,70,39.47142857142857,0.05714285714285714
+2024-09-08,Electricity,Auto parts,91,43.879120879120876,0.8131868131868132
+2024-09-09,Electricity,Auto parts,39,99.92307692307692,0.41025641025641024
+2024-09-10,Electricity,Auto parts,21,107.47619047619048,0.3333333333333333
+2024-09-11,Electricity,Auto parts,50,127.6,0.62
+2024-09-12,Electricity,Auto parts,26,177.57692307692307,0.38461538461538464
+2024-09-13,Electricity,Auto parts,25,190.08,0.4
+2024-09-14,Electricity,Auto parts,15,216.73333333333332,0.4
+2024-09-15,Electricity,Auto parts,28,140.71428571428572,0.42857142857142855
+2024-09-16,Electricity,Auto parts,85,180.35294117647058,0.5411764705882353
+2024-09-17,Electricity,Auto parts,49,75.79591836734694,0.7551020408163265
+2024-09-18,Electricity,Auto parts,20,166.6,0.4
+2024-09-19,Electricity,Auto parts,34,101.26470588235294,0.5294117647058824
+2024-09-20,Electricity,Auto parts,60,126.21666666666667,0.5
+2024-09-21,Electricity,Auto parts,31,234.8709677419355,0.25806451612903225
+2024-09-22,Electricity,Auto parts,15,70.73333333333333,0.26666666666666666
+2024-09-23,Electricity,Auto parts,90,86.35555555555555,0.6777777777777778
+2024-09-24,Electricity,Auto parts,100,148.05,0.58
+2024-09-25,Electricity,Auto parts,69,139.40579710144928,0.2898550724637681
+2024-09-26,Electricity,Auto parts,128,186.9453125,0.71875
+2024-09-27,Electricity,Auto parts,75,196.72,0.32
+2024-09-28,Electricity,Auto parts,23,61.82608695652174,0.34782608695652173
+2024-09-29,Electricity,Auto parts,64,96.0,0.71875
+2024-09-30,Electricity,Auto parts,103,100.9126213592233,0.7281553398058253
+2024-10-01,Electricity,Auto parts,81,118.5679012345679,0.5679012345679012
+2024-10-02,Electricity,Auto parts,79,113.35443037974683,0.5822784810126582
+2024-10-03,Electricity,Auto parts,84,150.48809523809524,0.4642857142857143
+2024-10-04,Electricity,Auto parts,73,117.58904109589041,0.7534246575342466
+2024-10-05,Electricity,Auto parts,120,123.83333333333333,0.31666666666666665
+2024-10-06,Electricity,Auto parts,71,158.16901408450704,0.6056338028169014
+2024-09-07,Engine and components,Auto parts,245,91.14285714285714,0.5020408163265306
+2024-09-08,Engine and components,Auto parts,355,102.91267605633803,0.5859154929577465
+2024-09-09,Engine and components,Auto parts,373,148.7882037533512,0.3324396782841823
+2024-09-10,Engine and components,Auto parts,712,118.93960674157303,0.6502808988764045
+2024-09-11,Engine and components,Auto parts,596,120.71644295302013,0.697986577181208
+2024-09-12,Engine and components,Auto parts,428,107.78271028037383,0.6121495327102804
+2024-09-13,Engine and components,Auto parts,392,216.4872448979592,0.7117346938775511
+2024-09-14,Engine and components,Auto parts,452,121.53318584070796,0.8694690265486725
+2024-09-15,Engine and components,Auto parts,328,101.9390243902439,0.6280487804878049
+2024-09-16,Engine and components,Auto parts,734,128.9141689373297,0.8228882833787466
+2024-09-17,Engine and components,Auto parts,316,140.5253164556962,0.6329113924050633
+2024-09-18,Engine and components,Auto parts,508,141.21062992125985,0.7244094488188977
+2024-09-19,Engine and components,Auto parts,298,141.06711409395973,0.6241610738255033
+2024-09-20,Engine and components,Auto parts,439,233.86788154897494,0.744874715261959
+2024-09-21,Engine and components,Auto parts,293,142.83617747440272,0.4641638225255973
+2024-09-22,Engine and components,Auto parts,162,123.22222222222223,0.5123456790123457
+2024-09-23,Engine and components,Auto parts,617,133.54943273905997,0.6661264181523501
+2024-09-24,Engine and components,Auto parts,462,142.72943722943722,0.6125541125541125
+2024-09-25,Engine and components,Auto parts,379,111.26121372031662,0.7361477572559367
+2024-09-26,Engine and components,Auto parts,436,159.64449541284404,0.6995412844036697
+2024-09-27,Engine and components,Auto parts,578,197.74048442906573,0.6764705882352942
+2024-09-28,Engine and components,Auto parts,542,132.88376383763838,0.6512915129151291
+2024-09-29,Engine and components,Auto parts,335,152.1731343283582,0.6537313432835821
+2024-09-30,Engine and components,Auto parts,754,117.88859416445624,0.7360742705570292
+2024-10-01,Engine and components,Auto parts,777,159.64993564993566,0.5778635778635779
+2024-10-02,Engine and components,Auto parts,1179,137.97116200169634,0.8083121289228159
+2024-10-03,Engine and components,Auto parts,979,124.85188968335035,0.7916241062308478
+2024-10-04,Engine and components,Auto parts,1225,131.8865306122449,0.7910204081632654
+2024-10-05,Engine and components,Auto parts,975,130.61641025641026,0.7528205128205128
+2024-10-06,Engine and components,Auto parts,594,120.9023569023569,0.6666666666666666
+2024-09-07,Engine and components (GE),Auto parts,0,116.66666666666667,0.3333333333333333
+2024-09-08,Engine and components (GE),Auto parts,3,116.66666666666667,0.3333333333333333
+2024-09-09,Engine and components (GE),Auto parts,0,116.66666666666667,0.3333333333333333
+2024-09-10,Engine and components (GE),Auto parts,0,116.66666666666667,0.3333333333333333
+2024-09-11,Engine and components (GE),Auto parts,2,175.0,0.0
+2024-09-12,Engine and components (GE),Auto parts,1,679.0,0.0
+2024-09-13,Engine and components (GE),Auto parts,0,679.0,0.0
+2024-09-14,Engine and components (GE),Auto parts,3,445.3333333333333,0.6666666666666666
+2024-09-15,Engine and components (GE),Auto parts,0,445.3333333333333,0.6666666666666666
+2024-09-16,Engine and components (GE),Auto parts,1,800.0,1.0
+2024-09-17,Engine and components (GE),Auto parts,0,800.0,1.0
+2024-09-18,Engine and components (GE),Auto parts,1,250.0,0.0
+2024-09-19,Engine and components (GE),Auto parts,0,250.0,0.0
+2024-09-20,Engine and components (GE),Auto parts,0,250.0,0.0
+2024-09-21,Engine and components (GE),Auto parts,0,250.0,0.0
+2024-09-22,Engine and components (GE),Auto parts,1,18.0,0.0
+2024-09-23,Engine and components (GE),Auto parts,2,225.0,0.5
+2024-09-24,Engine and components (GE),Auto parts,0,225.0,0.5
+2024-09-25,Engine and components (GE),Auto parts,0,225.0,0.5
+2024-09-26,Engine and components (GE),Auto parts,0,225.0,0.5
+2024-09-27,Engine and components (GE),Auto parts,0,225.0,0.5
+2024-09-28,Engine and components (GE),Auto parts,1,185.0,1.0
+2024-09-29,Engine and components (GE),Auto parts,1,800.0,1.0
+2024-09-30,Engine and components (GE),Auto parts,1,77.0,0.0
+2024-10-01,Engine and components (GE),Auto parts,0,77.0,0.0
+2024-10-02,Engine and components (GE),Auto parts,2,18.5,0.0
+2024-10-03,Engine and components (GE),Auto parts,0,18.5,0.0
+2024-10-04,Engine and components (GE),Auto parts,0,18.5,0.0
+2024-10-05,Engine and components (GE),Auto parts,3,445.0,0.6666666666666666
+2024-10-06,Engine and components (GE),Auto parts,0,445.0,0.6666666666666666
+2024-09-07,Equipment and tools,Auto parts,3,270.6666666666667,1.0
+2024-09-08,Equipment and tools,Auto parts,2,52.0,0.5
+2024-09-09,Equipment and tools,Auto parts,6,28.333333333333332,1.0
+2024-09-10,Equipment and tools,Auto parts,0,28.333333333333332,1.0
+2024-09-11,Equipment and tools,Auto parts,10,106.3,0.9
+2024-09-12,Equipment and tools,Auto parts,1,350.0,0.0
+2024-09-13,Equipment and tools,Auto parts,1,250.0,0.0
+2024-09-14,Equipment and tools,Auto parts,1,250.0,0.0
+2024-09-15,Equipment and tools,Auto parts,2,45.0,0.5
+2024-09-16,Equipment and tools,Auto parts,17,245.0,0.5294117647058824
+2024-09-17,Equipment and tools,Auto parts,8,169.5,1.0
+2024-09-18,Equipment and tools,Auto parts,0,169.5,1.0
+2024-09-19,Equipment and tools,Auto parts,1,50.0,1.0
+2024-09-20,Equipment and tools,Auto parts,19,68.57894736842105,1.0
+2024-09-21,Equipment and tools,Auto parts,1,90.0,1.0
+2024-09-22,Equipment and tools,Auto parts,19,178.8421052631579,0.9473684210526315
+2024-09-23,Equipment and tools,Auto parts,24,52.791666666666664,1.0
+2024-09-24,Equipment and tools,Auto parts,7,103.14285714285714,0.8571428571428571
+2024-09-25,Equipment and tools,Auto parts,12,116.91666666666667,0.75
+2024-09-26,Equipment and tools,Auto parts,8,101.375,1.0
+2024-09-27,Equipment and tools,Auto parts,6,244.5,1.0
+2024-09-28,Equipment and tools,Auto parts,1,426.0,1.0
+2024-09-29,Equipment and tools,Auto parts,15,123.33333333333333,0.8666666666666667
+2024-09-30,Equipment and tools,Auto parts,42,226.0,0.9761904761904762
+2024-10-01,Equipment and tools,Auto parts,20,182.25,0.85
+2024-10-02,Equipment and tools,Auto parts,23,120.47826086956522,0.9130434782608695
+2024-10-03,Equipment and tools,Auto parts,297,220.84511784511784,0.9865319865319865
+2024-10-04,Equipment and tools,Auto parts,3,87.0,0.6666666666666666
+2024-10-05,Equipment and tools,Auto parts,20,177.2,0.8
+2024-10-06,Equipment and tools,Auto parts,56,11.517857142857142,0.9821428571428571
+2024-09-07,Filters,Auto parts,3,111.66666666666667,0.0
+2024-09-08,Filters,Auto parts,30,25.5,0.9333333333333333
+2024-09-09,Filters,Auto parts,93,32.98924731182796,0.967741935483871
+2024-09-10,Filters,Auto parts,1,100.0,0.0
+2024-09-11,Filters,Auto parts,16,110.25,0.875
+2024-09-12,Filters,Auto parts,50,21.42,0.98
+2024-09-13,Filters,Auto parts,4,66.25,1.0
+2024-09-14,Filters,Auto parts,9,41.44444444444444,0.7777777777777778
+2024-09-15,Filters,Auto parts,1,10.0,1.0
+2024-09-16,Filters,Auto parts,2,19.0,1.0
+2024-09-17,Filters,Auto parts,5,43.2,0.6
+2024-09-18,Filters,Auto parts,3,34.666666666666664,0.3333333333333333
+2024-09-19,Filters,Auto parts,30,7.133333333333334,1.0
+2024-09-20,Filters,Auto parts,11,35.09090909090909,0.9090909090909091
+2024-09-21,Filters,Auto parts,6,58.833333333333336,0.8333333333333334
+2024-09-22,Filters,Auto parts,6,28.0,1.0
+2024-09-23,Filters,Auto parts,12,70.5,0.8333333333333334
+2024-09-24,Filters,Auto parts,24,96.16666666666667,0.9583333333333334
+2024-09-25,Filters,Auto parts,296,27.10810810810811,1.0
+2024-09-26,Filters,Auto parts,24,127.83333333333333,1.0
+2024-09-27,Filters,Auto parts,95,99.58947368421053,0.9789473684210527
+2024-09-28,Filters,Auto parts,25,62.0,1.0
+2024-09-29,Filters,Auto parts,32,9.125,1.0
+2024-09-30,Filters,Auto parts,12,19.916666666666668,0.9166666666666666
+2024-10-01,Filters,Auto parts,47,22.148936170212767,0.9574468085106383
+2024-10-02,Filters,Auto parts,24,53.916666666666664,0.9583333333333334
+2024-10-03,Filters,Auto parts,29,107.79310344827586,1.0
+2024-10-04,Filters,Auto parts,18,66.83333333333333,0.9444444444444444
+2024-10-05,Filters,Auto parts,21,11.142857142857142,1.0
+2024-10-06,Filters,Auto parts,5,44.4,1.0
+2024-09-07,"Gear box, bridge, cardan",Auto parts,15,104.8,0.06666666666666667
+2024-09-08,"Gear box, bridge, cardan",Auto parts,59,144.0677966101695,0.5084745762711864
+2024-09-09,"Gear box, bridge, cardan",Auto parts,73,154.36986301369862,0.0958904109589041
+2024-09-10,"Gear box, bridge, cardan",Auto parts,44,167.20454545454547,0.18181818181818182
+2024-09-11,"Gear box, bridge, cardan",Auto parts,65,122.18461538461538,0.35384615384615387
+2024-09-12,"Gear box, bridge, cardan",Auto parts,58,203.89655172413794,0.05172413793103448
+2024-09-13,"Gear box, bridge, cardan",Auto parts,37,134.3783783783784,0.5675675675675675
+2024-09-14,"Gear box, bridge, cardan",Auto parts,16,227.125,0.25
+2024-09-15,"Gear box, bridge, cardan",Auto parts,27,206.40740740740742,0.07407407407407407
+2024-09-16,"Gear box, bridge, cardan",Auto parts,47,131.80851063829786,0.46808510638297873
+2024-09-17,"Gear box, bridge, cardan",Auto parts,78,216.37179487179486,0.6025641025641025
+2024-09-18,"Gear box, bridge, cardan",Auto parts,30,172.56666666666666,0.43333333333333335
+2024-09-19,"Gear box, bridge, cardan",Auto parts,76,99.07894736842105,0.6578947368421053
+2024-09-20,"Gear box, bridge, cardan",Auto parts,70,153.15714285714284,0.6571428571428571
+2024-09-21,"Gear box, bridge, cardan",Auto parts,28,143.17857142857142,0.17857142857142858
+2024-09-22,"Gear box, bridge, cardan",Auto parts,29,156.27586206896552,0.27586206896551724
+2024-09-23,"Gear box, bridge, cardan",Auto parts,98,196.80612244897958,0.336734693877551
+2024-09-24,"Gear box, bridge, cardan",Auto parts,77,181.05194805194805,0.2987012987012987
+2024-09-25,"Gear box, bridge, cardan",Auto parts,62,157.88709677419354,0.43548387096774194
+2024-09-26,"Gear box, bridge, cardan",Auto parts,74,151.72972972972974,0.5405405405405406
+2024-09-27,"Gear box, bridge, cardan",Auto parts,113,273.4070796460177,0.5575221238938053
+2024-09-28,"Gear box, bridge, cardan",Auto parts,89,215.1573033707865,0.4606741573033708
+2024-09-29,"Gear box, bridge, cardan",Auto parts,51,179.2941176470588,0.5686274509803921
+2024-09-30,"Gear box, bridge, cardan",Auto parts,82,198.67073170731706,0.2682926829268293
+2024-10-01,"Gear box, bridge, cardan",Auto parts,106,228.56603773584905,0.3584905660377358
+2024-10-02,"Gear box, bridge, cardan",Auto parts,229,103.27947598253274,0.7074235807860262
+2024-10-03,"Gear box, bridge, cardan",Auto parts,99,199.02020202020202,0.45454545454545453
+2024-10-04,"Gear box, bridge, cardan",Auto parts,156,149.72435897435898,0.6730769230769231
+2024-10-05,"Gear box, bridge, cardan",Auto parts,80,169.2,0.375
+2024-10-06,"Gear box, bridge, cardan",Auto parts,115,151.1304347826087,0.4782608695652174
+2024-09-07,Headlights and lamps,Auto parts,153,125.98039215686275,0.38562091503267976
+2024-09-08,Headlights and lamps,Auto parts,227,162.1718061674009,0.22026431718061673
+2024-09-09,Headlights and lamps,Auto parts,324,185.6604938271605,0.32098765432098764
+2024-09-10,Headlights and lamps,Auto parts,430,165.04883720930232,0.2255813953488372
+2024-09-11,Headlights and lamps,Auto parts,484,168.92768595041323,0.6177685950413223
+2024-09-12,Headlights and lamps,Auto parts,470,225.0936170212766,0.1276595744680851
+2024-09-13,Headlights and lamps,Auto parts,222,205.5900900900901,0.3063063063063063
+2024-09-14,Headlights and lamps,Auto parts,287,161.73170731707316,0.24738675958188153
+2024-09-15,Headlights and lamps,Auto parts,123,176.0487804878049,0.34146341463414637
+2024-09-16,Headlights and lamps,Auto parts,430,234.16744186046512,0.3581395348837209
+2024-09-17,Headlights and lamps,Auto parts,310,190.8709677419355,0.5870967741935483
+2024-09-18,Headlights and lamps,Auto parts,202,229.96534653465346,0.25742574257425743
+2024-09-19,Headlights and lamps,Auto parts,364,256.760989010989,0.4065934065934066
+2024-09-20,Headlights and lamps,Auto parts,455,200.90769230769232,0.49230769230769234
+2024-09-21,Headlights and lamps,Auto parts,178,190.73033707865167,0.37640449438202245
+2024-09-22,Headlights and lamps,Auto parts,99,200.7171717171717,0.5151515151515151
+2024-09-23,Headlights and lamps,Auto parts,408,196.4313725490196,0.31862745098039214
+2024-09-24,Headlights and lamps,Auto parts,347,203.45821325648416,0.37175792507204614
+2024-09-25,Headlights and lamps,Auto parts,223,174.47533632286996,0.5829596412556054
+2024-09-26,Headlights and lamps,Auto parts,249,232.79116465863453,0.5943775100401606
+2024-09-27,Headlights and lamps,Auto parts,371,164.28571428571428,0.5956873315363881
+2024-09-28,Headlights and lamps,Auto parts,338,207.83727810650888,0.5029585798816568
+2024-09-29,Headlights and lamps,Auto parts,164,187.71951219512195,0.3353658536585366
+2024-09-30,Headlights and lamps,Auto parts,946,188.6353065539112,0.6627906976744186
+2024-10-01,Headlights and lamps,Auto parts,812,203.73522167487684,0.5997536945812808
+2024-10-02,Headlights and lamps,Auto parts,698,194.03581661891118,0.669054441260745
+2024-10-03,Headlights and lamps,Auto parts,448,183.53571428571428,0.3705357142857143
+2024-10-04,Headlights and lamps,Auto parts,796,137.80653266331657,0.8153266331658291
+2024-10-05,Headlights and lamps,Auto parts,656,200.109756097561,0.538109756097561
+2024-10-06,Headlights and lamps,Auto parts,325,191.12,0.6276923076923077
+2024-09-07,Lighting and electricity (GE),Auto parts,0,280.0,0.5
+2024-09-08,Lighting and electricity (GE),Auto parts,2,280.0,0.5
+2024-09-09,Lighting and electricity (GE),Auto parts,0,280.0,0.5
+2024-09-10,Lighting and electricity (GE),Auto parts,0,280.0,0.5
+2024-09-11,Lighting and electricity (GE),Auto parts,0,280.0,0.5
+2024-09-12,Lighting and electricity (GE),Auto parts,0,280.0,0.5
+2024-09-13,Lighting and electricity (GE),Auto parts,0,280.0,0.5
+2024-09-14,Lighting and electricity (GE),Auto parts,0,280.0,0.5
+2024-09-15,Lighting and electricity (GE),Auto parts,0,280.0,0.5
+2024-09-16,Lighting and electricity (GE),Auto parts,1,100.0,1.0
+2024-09-17,Lighting and electricity (GE),Auto parts,0,100.0,1.0
+2024-09-18,Lighting and electricity (GE),Auto parts,1,700.0,0.0
+2024-09-19,Lighting and electricity (GE),Auto parts,0,700.0,0.0
+2024-09-20,Lighting and electricity (GE),Auto parts,0,700.0,0.0
+2024-09-21,Lighting and electricity (GE),Auto parts,10,146.7,1.0
+2024-09-22,Lighting and electricity (GE),Auto parts,0,146.7,1.0
+2024-09-23,Lighting and electricity (GE),Auto parts,0,146.7,1.0
+2024-09-24,Lighting and electricity (GE),Auto parts,0,146.7,1.0
+2024-09-25,Lighting and electricity (GE),Auto parts,0,146.7,1.0
+2024-09-26,Lighting and electricity (GE),Auto parts,0,146.7,1.0
+2024-09-27,Lighting and electricity (GE),Auto parts,0,146.7,1.0
+2024-09-28,Lighting and electricity (GE),Auto parts,0,146.7,1.0
+2024-09-29,Lighting and electricity (GE),Auto parts,0,146.7,1.0
+2024-09-30,Lighting and electricity (GE),Auto parts,0,146.7,1.0
+2024-10-01,Lighting and electricity (GE),Auto parts,1,0.0,0.0
+2024-10-02,Lighting and electricity (GE),Auto parts,1,890.0,0.0
+2024-10-03,Lighting and electricity (GE),Auto parts,0,890.0,0.0
+2024-10-04,Lighting and electricity (GE),Auto parts,0,890.0,0.0
+2024-10-05,Lighting and electricity (GE),Auto parts,0,890.0,0.0
+2024-10-06,Lighting and electricity (GE),Auto parts,0,890.0,0.0
+2024-09-07,Oils and fluids,Auto parts,2,30.0,1.0
+2024-09-08,Oils and fluids,Auto parts,1,120.0,1.0
+2024-09-09,Oils and fluids,Auto parts,0,120.0,1.0
+2024-09-10,Oils and fluids,Auto parts,2,23.0,1.0
+2024-09-11,Oils and fluids,Auto parts,2,53.0,0.5
+2024-09-12,Oils and fluids,Auto parts,12,99.41666666666667,1.0
+2024-09-13,Oils and fluids,Auto parts,1,100.0,1.0
+2024-09-14,Oils and fluids,Auto parts,1,25.0,1.0
+2024-09-15,Oils and fluids,Auto parts,1,130.0,1.0
+2024-09-16,Oils and fluids,Auto parts,2,17.5,1.0
+2024-09-17,Oils and fluids,Auto parts,0,17.5,1.0
+2024-09-18,Oils and fluids,Auto parts,2,25.5,1.0
+2024-09-19,Oils and fluids,Auto parts,1,5.0,1.0
+2024-09-20,Oils and fluids,Auto parts,3,8.0,1.0
+2024-09-21,Oils and fluids,Auto parts,0,8.0,1.0
+2024-09-22,Oils and fluids,Auto parts,1,20.0,1.0
+2024-09-23,Oils and fluids,Auto parts,20,16.95,1.0
+2024-09-24,Oils and fluids,Auto parts,2,12.0,1.0
+2024-09-25,Oils and fluids,Auto parts,3,5.333333333333333,1.0
+2024-09-26,Oils and fluids,Auto parts,1,25.0,1.0
+2024-09-27,Oils and fluids,Auto parts,2,104.5,0.5
+2024-09-28,Oils and fluids,Auto parts,4,59.5,1.0
+2024-09-29,Oils and fluids,Auto parts,0,59.5,1.0
+2024-09-30,Oils and fluids,Auto parts,5,85.0,0.8
+2024-10-01,Oils and fluids,Auto parts,2,21.5,1.0
+2024-10-02,Oils and fluids,Auto parts,10,23.5,1.0
+2024-10-03,Oils and fluids,Auto parts,5,31.8,1.0
+2024-10-04,Oils and fluids,Auto parts,32,30.90625,1.0
+2024-10-05,Oils and fluids,Auto parts,15,32.53333333333333,1.0
+2024-10-06,Oils and fluids,Auto parts,1,13.0,1.0
+2024-09-07,Rim and tyre packages,Rims & Tyres,9,338.77777777777777,0.0
+2024-09-08,Rim and tyre packages,Rims & Tyres,9,309.6666666666667,0.0
+2024-09-09,Rim and tyre packages,Rims & Tyres,5,391.6,0.4
+2024-09-10,Rim and tyre packages,Rims & Tyres,7,414.2857142857143,0.0
+2024-09-11,Rim and tyre packages,Rims & Tyres,7,585.8571428571429,0.0
+2024-09-12,Rim and tyre packages,Rims & Tyres,16,169.0,0.0
+2024-09-13,Rim and tyre packages,Rims & Tyres,7,318.42857142857144,0.14285714285714285
+2024-09-14,Rim and tyre packages,Rims & Tyres,14,179.92857142857142,0.0
+2024-09-15,Rim and tyre packages,Rims & Tyres,4,350.0,0.0
+2024-09-16,Rim and tyre packages,Rims & Tyres,2,175.0,0.5
+2024-09-17,Rim and tyre packages,Rims & Tyres,4,287.5,0.0
+2024-09-18,Rim and tyre packages,Rims & Tyres,7,28.571428571428573,0.14285714285714285
+2024-09-19,Rim and tyre packages,Rims & Tyres,3,540.6666666666666,0.0
+2024-09-20,Rim and tyre packages,Rims & Tyres,52,286.96153846153845,0.9230769230769231
+2024-09-21,Rim and tyre packages,Rims & Tyres,10,109.4,0.0
+2024-09-22,Rim and tyre packages,Rims & Tyres,12,170.58333333333334,0.0
+2024-09-23,Rim and tyre packages,Rims & Tyres,13,244.3846153846154,0.0
+2024-09-24,Rim and tyre packages,Rims & Tyres,30,339.8333333333333,0.5333333333333333
+2024-09-25,Rim and tyre packages,Rims & Tyres,12,270.75,0.0
+2024-09-26,Rim and tyre packages,Rims & Tyres,11,180.36363636363637,0.0
+2024-09-27,Rim and tyre packages,Rims & Tyres,10,224.5,0.1
+2024-09-28,Rim and tyre packages,Rims & Tyres,17,37.76470588235294,0.17647058823529413
+2024-09-29,Rim and tyre packages,Rims & Tyres,9,227.11111111111111,0.1111111111111111
+2024-09-30,Rim and tyre packages,Rims & Tyres,23,273.39130434782606,0.17391304347826086
+2024-10-01,Rim and tyre packages,Rims & Tyres,21,342.85714285714283,0.047619047619047616
+2024-10-02,Rim and tyre packages,Rims & Tyres,51,161.66666666666666,0.49019607843137253
+2024-10-03,Rim and tyre packages,Rims & Tyres,16,253.5625,0.0625
+2024-10-04,Rim and tyre packages,Rims & Tyres,164,206.4451219512195,0.5304878048780488
+2024-10-05,Rim and tyre packages,Rims & Tyres,10,193.6,0.0
+2024-10-06,Rim and tyre packages,Rims & Tyres,9,346.6666666666667,0.1111111111111111
+2024-09-07,Rims,Rims & Tyres,9,510.0,0.0
+2024-09-08,Rims,Rims & Tyres,34,282.02941176470586,0.0
+2024-09-09,Rims,Rims & Tyres,10,219.1,0.1
+2024-09-10,Rims,Rims & Tyres,114,448.9298245614035,0.0
+2024-09-11,Rims,Rims & Tyres,10,283.6,0.3
+2024-09-12,Rims,Rims & Tyres,30,195.03333333333333,0.06666666666666667
+2024-09-13,Rims,Rims & Tyres,11,157.45454545454547,0.0
+2024-09-14,Rims,Rims & Tyres,9,392.6666666666667,0.0
+2024-09-15,Rims,Rims & Tyres,40,473.225,0.0
+2024-09-16,Rims,Rims & Tyres,12,206.33333333333334,0.4166666666666667
+2024-09-17,Rims,Rims & Tyres,15,452.0,0.0
+2024-09-18,Rims,Rims & Tyres,22,356.1818181818182,0.0
+2024-09-19,Rims,Rims & Tyres,9,151.11111111111111,0.6666666666666666
+2024-09-20,Rims,Rims & Tyres,88,455.46590909090907,0.06818181818181818
+2024-09-21,Rims,Rims & Tyres,45,138.04444444444445,0.0
+2024-09-22,Rims,Rims & Tyres,32,327.78125,0.03125
+2024-09-23,Rims,Rims & Tyres,28,295.17857142857144,0.14285714285714285
+2024-09-24,Rims,Rims & Tyres,43,337.3255813953488,0.023255813953488372
+2024-09-25,Rims,Rims & Tyres,24,305.75,0.08333333333333333
+2024-09-26,Rims,Rims & Tyres,174,206.98275862068965,0.028735632183908046
+2024-09-27,Rims,Rims & Tyres,6,192.33333333333334,0.0
+2024-09-28,Rims,Rims & Tyres,54,149.35185185185185,0.37037037037037035
+2024-09-29,Rims,Rims & Tyres,29,548.7586206896551,0.10344827586206896
+2024-09-30,Rims,Rims & Tyres,12,384.5,0.0
+2024-10-01,Rims,Rims & Tyres,25,162.2,0.6
+2024-10-02,Rims,Rims & Tyres,118,47.79661016949152,0.8983050847457628
+2024-10-03,Rims,Rims & Tyres,117,447.7606837606838,0.03418803418803419
+2024-10-04,Rims,Rims & Tyres,279,153.59498207885304,0.45878136200716846
+2024-10-05,Rims,Rims & Tyres,30,399.8333333333333,0.16666666666666666
+2024-10-06,Rims,Rims & Tyres,24,301.0,0.4583333333333333
+2024-09-07,Spare tire,Rims & Tyres,0,300.0,1.0
+2024-09-08,Spare tire,Rims & Tyres,0,300.0,1.0
+2024-09-09,Spare tire,Rims & Tyres,0,300.0,1.0
+2024-09-10,Spare tire,Rims & Tyres,1,300.0,1.0
+2024-09-11,Spare tire,Rims & Tyres,0,300.0,1.0
+2024-09-12,Spare tire,Rims & Tyres,0,300.0,1.0
+2024-09-13,Spare tire,Rims & Tyres,0,300.0,1.0
+2024-09-14,Spare tire,Rims & Tyres,0,300.0,1.0
+2024-09-15,Spare tire,Rims & Tyres,0,300.0,1.0
+2024-09-16,Spare tire,Rims & Tyres,0,300.0,1.0
+2024-09-17,Spare tire,Rims & Tyres,0,300.0,1.0
+2024-09-18,Spare tire,Rims & Tyres,0,300.0,1.0
+2024-09-19,Spare tire,Rims & Tyres,0,300.0,1.0
+2024-09-20,Spare tire,Rims & Tyres,1,40.0,0.0
+2024-09-21,Spare tire,Rims & Tyres,3,250.0,0.0
+2024-09-22,Spare tire,Rims & Tyres,1,26.0,0.0
+2024-09-23,Spare tire,Rims & Tyres,1,150.0,0.0
+2024-09-24,Spare tire,Rims & Tyres,0,150.0,0.0
+2024-09-25,Spare tire,Rims & Tyres,0,150.0,0.0
+2024-09-26,Spare tire,Rims & Tyres,2,125.0,0.0
+2024-09-27,Spare tire,Rims & Tyres,2,105.0,0.5
+2024-09-28,Spare tire,Rims & Tyres,0,105.0,0.5
+2024-09-29,Spare tire,Rims & Tyres,2,125.0,0.5
+2024-09-30,Spare tire,Rims & Tyres,3,80.0,0.0
+2024-10-01,Spare tire,Rims & Tyres,1,250.0,1.0
+2024-10-02,Spare tire,Rims & Tyres,3,46.666666666666664,0.0
+2024-10-03,Spare tire,Rims & Tyres,3,300.0,0.0
+2024-10-04,Spare tire,Rims & Tyres,2,75.0,0.5
+2024-10-05,Spare tire,Rims & Tyres,0,75.0,0.5
+2024-10-06,Spare tire,Rims & Tyres,0,75.0,0.5
+2024-09-07,Steering mechanism (GE),Auto parts,0,100.0,0.0
+2024-09-08,Steering mechanism (GE),Auto parts,0,100.0,0.0
+2024-09-09,Steering mechanism (GE),Auto parts,0,100.0,0.0
+2024-09-10,Steering mechanism (GE),Auto parts,0,100.0,0.0
+2024-09-11,Steering mechanism (GE),Auto parts,0,100.0,0.0
+2024-09-12,Steering mechanism (GE),Auto parts,0,100.0,0.0
+2024-09-13,Steering mechanism (GE),Auto parts,0,100.0,0.0
+2024-09-14,Steering mechanism (GE),Auto parts,0,100.0,0.0
+2024-09-15,Steering mechanism (GE),Auto parts,0,100.0,0.0
+2024-09-16,Steering mechanism (GE),Auto parts,0,100.0,0.0
+2024-09-17,Steering mechanism (GE),Auto parts,0,100.0,0.0
+2024-09-18,Steering mechanism (GE),Auto parts,0,100.0,0.0
+2024-09-19,Steering mechanism (GE),Auto parts,0,100.0,0.0
+2024-09-20,Steering mechanism (GE),Auto parts,0,100.0,0.0
+2024-09-21,Steering mechanism (GE),Auto parts,0,100.0,0.0
+2024-09-22,Steering mechanism (GE),Auto parts,0,100.0,0.0
+2024-09-23,Steering mechanism (GE),Auto parts,0,100.0,0.0
+2024-09-24,Steering mechanism (GE),Auto parts,0,100.0,0.0
+2024-09-25,Steering mechanism (GE),Auto parts,0,100.0,0.0
+2024-09-26,Steering mechanism (GE),Auto parts,0,100.0,0.0
+2024-09-27,Steering mechanism (GE),Auto parts,1,100.0,0.0
+2024-09-28,Steering mechanism (GE),Auto parts,0,100.0,0.0
+2024-09-29,Steering mechanism (GE),Auto parts,0,100.0,0.0
+2024-09-30,Steering mechanism (GE),Auto parts,0,100.0,0.0
+2024-10-01,Steering mechanism (GE),Auto parts,0,100.0,0.0
+2024-10-02,Steering mechanism (GE),Auto parts,0,100.0,0.0
+2024-10-03,Steering mechanism (GE),Auto parts,0,100.0,0.0
+2024-10-04,Steering mechanism (GE),Auto parts,0,100.0,0.0
+2024-10-05,Steering mechanism (GE),Auto parts,0,100.0,0.0
+2024-10-06,Steering mechanism (GE),Auto parts,0,100.0,0.0
+2024-09-07,Suspension & Steering,Auto parts,84,120.83333333333333,0.17857142857142858
+2024-09-08,Suspension & Steering,Auto parts,368,55.02173913043478,0.6114130434782609
+2024-09-09,Suspension & Steering,Auto parts,424,119.10141509433963,0.6462264150943396
+2024-09-10,Suspension & Steering,Auto parts,311,128.80064308681673,0.5434083601286174
+2024-09-11,Suspension & Steering,Auto parts,175,118.88571428571429,0.4857142857142857
+2024-09-12,Suspension & Steering,Auto parts,165,155.87272727272727,0.21818181818181817
+2024-09-13,Suspension & Steering,Auto parts,223,93.69058295964126,0.852017937219731
+2024-09-14,Suspension & Steering,Auto parts,81,141.5679012345679,0.5925925925925926
+2024-09-15,Suspension & Steering,Auto parts,98,127.8061224489796,0.3673469387755102
+2024-09-16,Suspension & Steering,Auto parts,314,121.5859872611465,0.7738853503184714
+2024-09-17,Suspension & Steering,Auto parts,288,124.15972222222223,0.6597222222222222
+2024-09-18,Suspension & Steering,Auto parts,209,92.9377990430622,0.5645933014354066
+2024-09-19,Suspension & Steering,Auto parts,314,49.71656050955414,0.7898089171974523
+2024-09-20,Suspension & Steering,Auto parts,244,114.99180327868852,0.680327868852459
+2024-09-21,Suspension & Steering,Auto parts,144,105.67361111111111,0.4375
+2024-09-22,Suspension & Steering,Auto parts,244,46.032786885245905,0.7827868852459017
+2024-09-23,Suspension & Steering,Auto parts,400,124.375,0.615
+2024-09-24,Suspension & Steering,Auto parts,226,114.87610619469027,0.584070796460177
+2024-09-25,Suspension & Steering,Auto parts,275,99.52,0.7236363636363636
+2024-09-26,Suspension & Steering,Auto parts,286,144.25524475524475,0.8356643356643356
+2024-09-27,Suspension & Steering,Auto parts,656,165.0701219512195,0.8628048780487805
+2024-09-28,Suspension & Steering,Auto parts,299,127.17056856187291,0.7324414715719063
+2024-09-29,Suspension & Steering,Auto parts,323,119.42724458204334,0.8513931888544891
+2024-09-30,Suspension & Steering,Auto parts,455,94.87252747252747,0.6461538461538462
+2024-10-01,Suspension & Steering,Auto parts,420,110.93333333333334,0.7047619047619048
+2024-10-02,Suspension & Steering,Auto parts,1086,88.43001841620627,0.848987108655617
+2024-10-03,Suspension & Steering,Auto parts,1333,398.08177044261066,0.5266316579144786
+2024-10-04,Suspension & Steering,Auto parts,859,97.104772991851,0.8847497089639115
+2024-10-05,Suspension & Steering,Auto parts,674,97.81305637982196,0.7818991097922848
+2024-10-06,Suspension & Steering,Auto parts,683,102.26500732064422,0.787701317715959
+2024-09-07,Tyres,Rims & Tyres,14,161.42857142857142,0.0
+2024-09-08,Tyres,Rims & Tyres,82,244.32926829268294,0.6829268292682927
+2024-09-09,Tyres,Rims & Tyres,343,254.77551020408163,0.9300291545189504
+2024-09-10,Tyres,Rims & Tyres,161,128.8447204968944,0.39751552795031053
+2024-09-11,Tyres,Rims & Tyres,40,212.475,0.575
+2024-09-12,Tyres,Rims & Tyres,143,292.4475524475524,0.4825174825174825
+2024-09-13,Tyres,Rims & Tyres,37,189.72972972972974,0.7027027027027027
+2024-09-14,Tyres,Rims & Tyres,57,141.5438596491228,0.5614035087719298
+2024-09-15,Tyres,Rims & Tyres,38,122.05263157894737,0.02631578947368421
+2024-09-16,Tyres,Rims & Tyres,183,133.18032786885246,0.9672131147540983
+2024-09-17,Tyres,Rims & Tyres,53,287.49056603773585,0.8679245283018868
+2024-09-18,Tyres,Rims & Tyres,53,166.1509433962264,0.8679245283018868
+2024-09-19,Tyres,Rims & Tyres,5,380.0,0.0
+2024-09-20,Tyres,Rims & Tyres,31,275.16129032258067,0.8709677419354839
+2024-09-21,Tyres,Rims & Tyres,43,238.7906976744186,0.7674418604651163
+2024-09-22,Tyres,Rims & Tyres,204,172.7843137254902,0.05392156862745098
+2024-09-23,Tyres,Rims & Tyres,82,230.9390243902439,0.7560975609756098
+2024-09-24,Tyres,Rims & Tyres,83,154.66265060240963,0.7108433734939759
+2024-09-25,Tyres,Rims & Tyres,218,234.94495412844037,0.8256880733944955
+2024-09-26,Tyres,Rims & Tyres,37,210.40540540540542,0.40540540540540543
+2024-09-27,Tyres,Rims & Tyres,78,130.10256410256412,0.038461538461538464
+2024-09-28,Tyres,Rims & Tyres,215,208.69302325581396,0.18604651162790697
+2024-09-29,Tyres,Rims & Tyres,122,226.24590163934425,0.9344262295081968
+2024-09-30,Tyres,Rims & Tyres,174,194.02298850574712,0.47701149425287354
+2024-10-01,Tyres,Rims & Tyres,135,154.94814814814814,0.4962962962962963
+2024-10-02,Tyres,Rims & Tyres,910,234.92747252747253,0.9373626373626374
+2024-10-03,Tyres,Rims & Tyres,136,201.3235294117647,0.8161764705882353
+2024-10-04,Tyres,Rims & Tyres,518,232.63706563706563,0.9536679536679536
+2024-10-05,Tyres,Rims & Tyres,307,190.6026058631922,0.7947882736156352
+2024-10-06,Tyres,Rims & Tyres,156,187.8846153846154,0.23076923076923078
+2024-09-07,interior,Auto parts,47,113.53191489361703,0.10638297872340426
+2024-09-08,interior,Auto parts,67,98.70149253731343,0.26865671641791045
+2024-09-09,interior,Auto parts,96,118.86458333333333,0.17708333333333334
+2024-09-10,interior,Auto parts,82,208.0731707317073,0.10975609756097561
+2024-09-11,interior,Auto parts,90,133.23333333333332,0.37777777777777777
+2024-09-12,interior,Auto parts,76,151.42105263157896,0.2236842105263158
+2024-09-13,interior,Auto parts,87,127.37931034482759,0.13793103448275862
+2024-09-14,interior,Auto parts,28,151.53571428571428,0.21428571428571427
+2024-09-15,interior,Auto parts,39,176.23076923076923,0.05128205128205128
+2024-09-16,interior,Auto parts,80,138.7875,0.1875
+2024-09-17,interior,Auto parts,48,132.625,0.3541666666666667
+2024-09-18,interior,Auto parts,54,182.25925925925927,0.2222222222222222
+2024-09-19,interior,Auto parts,64,172.890625,0.328125
+2024-09-20,interior,Auto parts,100,181.1,0.36
+2024-09-21,interior,Auto parts,76,118.36842105263158,0.17105263157894737
+2024-09-22,interior,Auto parts,41,136.97560975609755,0.04878048780487805
+2024-09-23,interior,Auto parts,104,150.25,0.21153846153846154
+2024-09-24,interior,Auto parts,67,173.0,0.3582089552238806
+2024-09-25,interior,Auto parts,70,133.4142857142857,0.42857142857142855
+2024-09-26,interior,Auto parts,287,288.68989547038325,0.6027874564459931
+2024-09-27,interior,Auto parts,151,135.98013245033113,0.26490066225165565
+2024-09-28,interior,Auto parts,111,137.45045045045046,0.26126126126126126
+2024-09-29,interior,Auto parts,45,156.42222222222222,0.15555555555555556
+2024-09-30,interior,Auto parts,124,144.2983870967742,0.43548387096774194
+2024-10-01,interior,Auto parts,201,138.27860696517413,0.32338308457711445
+2024-10-02,interior,Auto parts,128,173.3125,0.484375
+2024-10-03,interior,Auto parts,182,197.34065934065933,0.4835164835164835
+2024-10-04,interior,Auto parts,151,157.23841059602648,0.4768211920529801
+2024-10-05,interior,Auto parts,174,160.94252873563218,0.47126436781609193
+2024-10-06,interior,Auto parts,96,153.3125,0.59375

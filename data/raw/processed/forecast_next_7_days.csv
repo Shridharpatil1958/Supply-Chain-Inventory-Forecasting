@@ -1,0 +1,106 @@
+display_category,forecast_date,days_ahead,predicted_listings,low_estimate,high_estimate
+"Accessories, auto chemistry",2024-10-07,1,96.3,80.2,112.3
+"Accessories, auto chemistry",2024-10-08,2,63.8,47.8,79.8
+"Accessories, auto chemistry",2024-10-09,3,63.8,47.8,79.8
+"Accessories, auto chemistry",2024-10-10,4,85.4,69.4,101.4
+"Accessories, auto chemistry",2024-10-11,5,74.8,58.7,90.8
+"Accessories, auto chemistry",2024-10-12,6,55.4,39.4,71.4
+"Accessories, auto chemistry",2024-10-13,7,50.4,34.4,66.4
+Auto Body Parts,2024-10-07,1,3551.0,2380.5,4721.6
+Auto Body Parts,2024-10-08,2,3081.1,1910.5,4251.6
+Auto Body Parts,2024-10-09,3,2173.5,1003.0,3344.1
+Auto Body Parts,2024-10-10,4,1509.9,339.4,2680.5
+Auto Body Parts,2024-10-11,5,2781.5,1611.0,3952.1
+Auto Body Parts,2024-10-12,6,3016.9,1846.3,4187.5
+Auto Body Parts,2024-10-13,7,1521.9,351.3,2692.4
+Disassembled vehicles,2024-10-07,1,273.9,200.9,346.9
+Disassembled vehicles,2024-10-08,2,223.0,150.0,296.0
+Disassembled vehicles,2024-10-09,3,272.4,199.4,345.4
+Disassembled vehicles,2024-10-10,4,226.3,153.3,299.3
+Disassembled vehicles,2024-10-11,5,291.1,218.1,364.1
+Disassembled vehicles,2024-10-12,6,249.0,176.0,322.0
+Disassembled vehicles,2024-10-13,7,288.0,215.1,361.0
+Electricity,2024-10-07,1,129.4,92.3,166.6
+Electricity,2024-10-08,2,130.1,93.0,167.3
+Electricity,2024-10-09,3,116.1,78.9,153.2
+Electricity,2024-10-10,4,130.0,92.8,167.1
+Electricity,2024-10-11,5,127.0,89.9,164.2
+Electricity,2024-10-12,6,115.5,78.3,152.7
+Electricity,2024-10-13,7,116.7,79.5,153.9
+Engine and components,2024-10-07,1,941.8,703.6,1180.0
+Engine and components,2024-10-08,2,1105.0,866.8,1343.2
+Engine and components,2024-10-09,3,1883.2,1645.0,2121.4
+Engine and components,2024-10-10,4,2467.5,2229.3,2705.7
+Engine and components,2024-10-11,5,2578.0,2339.8,2816.2
+Engine and components,2024-10-12,6,2290.0,2051.8,2528.2
+Engine and components,2024-10-13,7,1293.7,1055.5,1531.9
+Equipment and tools,2024-10-07,1,31.4,0.0,165.3
+Equipment and tools,2024-10-08,2,48.7,0.0,182.6
+Equipment and tools,2024-10-09,3,65.0,0.0,198.9
+Equipment and tools,2024-10-10,4,127.1,0.0,260.9
+Equipment and tools,2024-10-11,5,117.5,0.0,251.4
+Equipment and tools,2024-10-12,6,87.6,0.0,221.5
+Equipment and tools,2024-10-13,7,85.7,0.0,219.6
+Filters,2024-10-07,1,18.3,0.0,111.1
+Filters,2024-10-08,2,29.0,0.0,121.9
+Filters,2024-10-09,3,26.2,0.0,119.0
+Filters,2024-10-10,4,20.5,0.0,113.3
+Filters,2024-10-11,5,13.5,0.0,106.3
+Filters,2024-10-12,6,6.2,0.0,99.0
+Filters,2024-10-13,7,0.7,0.0,93.5
+"Gear box, bridge, cardan",2024-10-07,1,192.2,0.0,449.9
+"Gear box, bridge, cardan",2024-10-08,2,133.6,0.0,391.4
+"Gear box, bridge, cardan",2024-10-09,3,241.1,0.0,498.8
+"Gear box, bridge, cardan",2024-10-10,4,131.7,0.0,389.5
+"Gear box, bridge, cardan",2024-10-11,5,211.9,0.0,469.6
+"Gear box, bridge, cardan",2024-10-12,6,136.3,0.0,394.0
+"Gear box, bridge, cardan",2024-10-13,7,142.2,0.0,400.0
+Headlights and lamps,2024-10-07,1,1601.5,1352.7,1850.4
+Headlights and lamps,2024-10-08,2,956.2,707.3,1205.1
+Headlights and lamps,2024-10-09,3,1015.1,766.2,1263.9
+Headlights and lamps,2024-10-10,4,1069.6,820.7,1318.4
+Headlights and lamps,2024-10-11,5,950.9,702.0,1199.8
+Headlights and lamps,2024-10-12,6,926.4,677.5,1175.2
+Headlights and lamps,2024-10-13,7,539.9,291.0,788.7
+Oils and fluids,2024-10-07,1,25.5,0.0,769.7
+Oils and fluids,2024-10-08,2,80.2,0.0,824.4
+Oils and fluids,2024-10-09,3,48.1,0.0,792.3
+Oils and fluids,2024-10-10,4,44.9,0.0,789.1
+Oils and fluids,2024-10-11,5,61.3,0.0,805.5
+Oils and fluids,2024-10-12,6,41.9,0.0,786.1
+Oils and fluids,2024-10-13,7,78.2,0.0,822.4
+Rim and tyre packages,2024-10-07,1,94.0,0.0,838.2
+Rim and tyre packages,2024-10-08,2,64.0,0.0,808.2
+Rim and tyre packages,2024-10-09,3,63.0,0.0,807.2
+Rim and tyre packages,2024-10-10,4,75.1,0.0,819.3
+Rim and tyre packages,2024-10-11,5,93.0,0.0,837.2
+Rim and tyre packages,2024-10-12,6,47.0,0.0,791.2
+Rim and tyre packages,2024-10-13,7,50.5,0.0,794.7
+Rims,2024-10-07,1,123.4,0.0,867.6
+Rims,2024-10-08,2,70.6,0.0,814.8
+Rims,2024-10-09,3,75.7,0.0,819.9
+Rims,2024-10-10,4,87.5,0.0,831.6
+Rims,2024-10-11,5,148.1,0.0,892.3
+Rims,2024-10-12,6,83.2,0.0,827.4
+Rims,2024-10-13,7,73.2,0.0,817.4
+Suspension & Steering,2024-10-07,1,1019.3,275.1,1763.5
+Suspension & Steering,2024-10-08,2,1060.0,315.8,1804.2
+Suspension & Steering,2024-10-09,3,1189.4,445.2,1933.6
+Suspension & Steering,2024-10-10,4,1369.4,625.2,2113.6
+Suspension & Steering,2024-10-11,5,1098.0,353.8,1842.2
+Suspension & Steering,2024-10-12,6,942.8,198.6,1687.0
+Suspension & Steering,2024-10-13,7,980.2,236.0,1724.4
+Tyres,2024-10-07,1,413.4,0.0,1157.6
+Tyres,2024-10-08,2,357.5,0.0,1101.7
+Tyres,2024-10-09,3,1321.5,577.3,2065.7
+Tyres,2024-10-10,4,540.6,0.0,1284.8
+Tyres,2024-10-11,5,782.3,38.1,1526.5
+Tyres,2024-10-12,6,747.6,3.4,1491.8
+Tyres,2024-10-13,7,420.7,0.0,1164.9
+interior,2024-10-07,1,185.7,0.0,929.9
+interior,2024-10-08,2,234.8,0.0,979.0
+interior,2024-10-09,3,167.3,0.0,911.5
+interior,2024-10-10,4,287.3,0.0,1031.5
+interior,2024-10-11,5,202.0,0.0,946.2
+interior,2024-10-12,6,226.7,0.0,970.9
+interior,2024-10-13,7,146.9,0.0,891.1

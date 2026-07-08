@@ -1,0 +1,24 @@
+display_category,total_listings,avg_daily,ADI,CV2,pattern
+Auto Body Parts,37457,1248.57,1.0,0.46,Smooth
+Engine and components,16463,548.77,1.0,0.24,Smooth
+Suspension & Steering,11661,388.7,1.0,0.56,Erratic
+Headlights and lamps,11539,384.63,1.0,0.31,Smooth
+Tyres,4658,155.27,1.0,1.36,Erratic
+interior,2966,98.87,1.0,0.33,Smooth
+Disassembled vehicles,2293,76.43,1.0,0.6,Erratic
+"Gear box, bridge, cardan",2183,72.77,1.0,0.36,Smooth
+Electricity,1819,60.63,1.0,0.28,Smooth
+Rims,1453,48.43,1.0,1.52,Erratic
+Filters,934,31.13,1.0,3.15,Erratic
+Equipment and tools,625,20.83,1.07,6.16,Erratic
+"Accessories, auto chemistry",582,19.4,1.0,0.44,Smooth
+Rim and tyre packages,564,18.8,1.0,2.53,Erratic
+Oils and fluids,133,4.43,1.15,2.04,Erratic
+Disk hub,79,2.63,1.36,0.55,Lumpy
+Spare tire,25,0.83,2.31,0.2,Intermittent
+Engine and components (GE),22,0.73,2.31,0.26,Intermittent
+Lighting and electricity (GE),16,0.53,5.0,1.84,Lumpy
+Brake system (GE),8,0.27,10.0,0.61,Lumpy
+Chassis parts and components (GE),5,0.17,6.0,0.0,Intermittent
+Bridge and transmission,3,0.1,15.0,0.22,Intermittent
+Steering mechanism (GE),1,0.03,,,Insufficient data

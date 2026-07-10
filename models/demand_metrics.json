@@ -1,0 +1,52 @@
+{
+  "comparison": {
+    "NaiveLag1": {
+      "RMSE": 622.9844452693976,
+      "MAE": 259.36507936507934
+    },
+    "SeasonalNaiveLag7": {
+      "RMSE": 535.3234743799512,
+      "MAE": 266.1746031746032
+    },
+    "XGBoost": {
+      "RMSE": 621.2253013198996,
+      "MAE": 294.14111328125
+    }
+  },
+  "modelable_categories": [
+    "Accessories, auto chemistry",
+    "Auto Body Parts",
+    "Disassembled vehicles",
+    "Electricity",
+    "Engine and components",
+    "Equipment and tools",
+    "Filters",
+    "Gear box, bridge, cardan",
+    "Headlights and lamps",
+    "Oils and fluids",
+    "Rim and tyre packages",
+    "Rims",
+    "Suspension & Steering",
+    "Tyres",
+    "interior"
+  ],
+  "residual_std_by_category": {
+    "Accessories, auto chemistry": 12.520611288582247,
+    "Auto Body Parts": 914.5002367694987,
+    "Disassembled vehicles": 57.013551614551275,
+    "Electricity": 29.037180534386952,
+    "Engine and components": 186.09929770102636,
+    "Equipment and tools": 104.58552099328502,
+    "Filters": 72.52028307357217,
+    "Gear box, bridge, cardan": 201.38661755197882,
+    "Headlights and lamps": 194.43423877112312
+  },
+  "train_window": [
+    "2024-09-14",
+    "2024-09-29"
+  ],
+  "test_window": [
+    "2024-09-30",
+    "2024-10-06"
+  ]
+}
